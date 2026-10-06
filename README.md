@@ -44,7 +44,7 @@ AI-powered civic education platform built for **PromptWars Virtual**, using Gemi
 
 ### [Kairox AI Agent](https://github.com/nilesh0199/kairox-agent)
 
-Career guidance assistant that generates structured, month-wise learning roadmaps using **Google ADK and Gemini**.
+Career guidance assistant that generates structured, month-wise learning roadmaps using **Google ADK and Gemini**, built during **Gen AI Academy APAC Edition**.
 
 ### [NagarDrishti AI](https://github.com/nilesh0199/NagarDrishti-AI)
 
@@ -52,13 +52,12 @@ Smart city analytics platform that uses AI to turn urban data into actionable in
 
 ### [FlowPilot AI](https://github.com/nilesh0199/flowpilot-ai)
 
-AI-powered student productivity assistant for managing tasks, notes, and planning through a chat-based interface.
+AI-powered student productivity assistant for managing tasks, notes, and planning through a chat-based interface. Built during **Gen AI Academy APAC Edition**
 
 ---
 
 ## Highlights
 
-- **2nd Prize — Technoquest 2026**
 - **SIH 2026 Participant**
 - Built AI solutions through **PromptWars**
 - Participated in hackathons and developer competitions
