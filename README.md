@@ -1,15 +1,5 @@
 <!-- ==================== HERO ==================== -->
 
-<div align="center">
-  <br>
-
-  <img
-    src="https://github.com/nilesh0199.png"
-    width="180"
-    height="180"
-    alt="Nilesh Thipe"
-    style="border-radius: 50%; object-fit: cover;"
-  />
 
   <h1>Hi 👋, I'm Nilesh Thipe</h1>
 
