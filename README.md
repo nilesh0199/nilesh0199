@@ -89,6 +89,9 @@ I enjoy building practical projects, participating in hackathons and developer c
 
 <!-- ==================== PROJECTS ==================== -->
 
+
+<!-- ==================== PROJECTS ==================== -->
+
 ## 🚀 Featured Projects
 
 <table>
@@ -126,6 +129,30 @@ I enjoy building practical projects, participating in hackathons and developer c
       <h3>📚 <a href="https://github.com/nilesh0199/flowpilot-ai">FlowPilot AI</a></h3>
       <p>An AI-powered student productivity assistant for managing tasks, notes, and planning through a chat-based interface.</p>
       <p><b>Focus:</b> AI · Productivity</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎉 <a href="https://github.com/nilesh0199/ayojan_ace_promptwars_virtual_challenge5">Aayojan Ace</a></h3>
+      <p>An AI-powered, culture-aware event planner built for PromptWars Virtual Challenge 5, generating celebration budgets, timelines, and personalized plans.</p>
+      <p><b>Tech:</b> Next.js · Gemini · Firebase</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/nilesh0199/OfferClara-WisprFlow-Hackathon">OfferClara</a></h3>
+      <p>An AI-assisted job and internship offer review tool built for the No Hands: The Wispr Challenge by WeMakeDevs and Wispr Flow, helping users spot warning signs before paying fees or sharing documents.</p>
+      <p><b>Focus:</b> AI · Job scam awareness · Voice-first development</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚇 <a href="https://github.com/nilesh0199/MetroMarg-GraphHacks-2026">MetroMarg</a></h3>
+      <p>A graph-powered Delhi Metro route analysis agent built for Graph Hacks 2026, examining how station closures affect journeys to Jantar Mantar.</p>
+      <p><b>Focus:</b> Graph-based routing · AI agents · Transit data</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 More Projects</h3>
+      <p>Explore my GitHub repositories for more experiments, prototypes, and projects built through hands-on learning and hackathons.</p>
+      <p><a href="https://github.com/nilesh0199?tab=repositories">Browse all repositories →</a></p>
     </td>
   </tr>
 </table>
