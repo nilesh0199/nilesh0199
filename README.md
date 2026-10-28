@@ -120,7 +120,7 @@ I enjoy building practical projects, participating in hackathons and developer c
       <p><b>Tech:</b> Gemini · AI integration</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/nilesh0199/kairox-agent">Kairox AI Agent</a></h3>
+      <h3>🤖 <a href="https://github.com/nilesh0199/Kairox-AI-Agent-GenAI-Academy-Track-1-Project">Kairox AI Agent</a></h3>
       <p>A career guidance assistant that generates structured, month-wise learning roadmaps using Google ADK and Gemini.</p>
       <p><b>Tech:</b> Google ADK · Gemini · Python</p>
     </td>
