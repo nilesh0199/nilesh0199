@@ -1,7 +1,7 @@
 <!-- ==================== HERO ==================== -->
 
 
-  <h1>Hi 👋, I'm Nilesh Thipe</h1>
+  <h1>Hiii 👋, I'm Nilesh Thipe</h1>
 
   <h3>Aspiring Software Developer | BCA Student</h3>
 
