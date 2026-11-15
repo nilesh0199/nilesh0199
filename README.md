@@ -328,10 +328,6 @@
   <a href="https://github.com/nilesh0199?tab=achievements">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nilesh0199?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" title="Pull Shark - Merged pull requests" />
-  </a>
 </div>
 
 ---
@@ -351,23 +347,15 @@
 <div align="center">
 
   <a href="https://github.com/nilesh0199?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-15-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnilesh0199&query=%24.public_repos&label=Repositories&style=for-the-badge&color=10B981" alt="Repositories" />
   </a>
   &nbsp;
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anilesh0199">
-    <img src="https://img.shields.io/badge/Pull_Requests-44-6366F1?style=for-the-badge&logo=git-pull-request&logoColor=white" alt="Pull Requests" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Anilesh0199%2Btype%3Apr&query=%24.total_count&label=Pull%20Requests&style=for-the-badge&color=6366F1" alt="Pull Requests" />
   </a>
   &nbsp;
   <a href="https://github.com/issues?q=is%3Aissue+author%3Anilesh0199">
-    <img src="https://img.shields.io/badge/Issues_Opened-10-F43F5E?style=for-the-badge&logo=githubissues&logoColor=white" alt="Issues" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/nilesh0199">
-    <img src="https://img.shields.io/badge/Total_Commits-220%2B-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/nilesh0199?tab=stars">
-    <img src="https://img.shields.io/badge/Stars_Earned-8-F59E0B?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Anilesh0199%2Btype%3Aissue&query=%24.total_count&label=Issues%20Opened&style=for-the-badge&color=F43F5E" alt="Issues" />
   </a>
 
   <br/><br/>
