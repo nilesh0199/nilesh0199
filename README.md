@@ -304,93 +304,84 @@
     <td width="33%" align="center">
       <h3>🥈 Second Prize</h3>
       <p><b>Technoquest 2026</b></p>
-      <p>Awarded 2nd prize for technical excellence and innovative software design.</p>
+      <p>Awarded 2nd prize for technical excellence and software design.</p>
     </td>
     <td width="33%" align="center">
       <h3>🇮🇳 SIH Contender</h3>
       <p><b>Smart India Hackathon 2026</b></p>
-      <p>Participant addressing PS <code>SIH26034</code> with the LabelLens compliance engine.</p>
+      <p>Addressing problem statement <code>SIH26034</code> with LabelLens.</p>
     </td>
     <td width="33%" align="center">
       <h3>⚡ PromptWars</h3>
       <p><b>Challenge 5 & In-Person</b></p>
-      <p>Built Aayojan Ace and Perspectra during high-pressure timed AI hackathons.</p>
+      <p>Built Aayojan Ace and Perspectra during timed AI sprints.</p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>🔍 Click to view additional hackathon & learning milestones</b></summary>
-  <br/>
-  <ul>
-    <li>🚇 <b>Graph Hacks 2026:</b> Architected <b>MetroMarg</b>, a graph-theory AI agent exploring dynamic transit disruptions in the Delhi Metro network.</li>
-    <li>🎙️ <b>Wispr Flow Hackathon:</b> Engineered <b>OfferClara</b> for <i>No Hands: The Wispr Challenge</i> by WeMakeDevs & Wispr Flow.</li>
-    <li>🤖 <b>GenAI Academy Track 1:</b> Developed the <b>Kairox Career AI Agent</b> with Google Agent Development Kit (ADK) and Gemini.</li>
-    <li>🌐 <b>Open Source:</b> Actively maintaining developer resources like free LLM endpoints and interactive web projects.</li>
-  </ul>
-</details>
-
-<br/>
-
 <div align="center">
-  <b>🏅 Official GitHub Badges & Achievements</b>
-  <br/><br/>
+  <br/>
   <a href="https://github.com/nilesh0199?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO - Merged PR without review" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO" title="YOLO - Merged PR without review" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nilesh0199?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" />
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nilesh0199?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" title="Pull Shark - Merged pull requests" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" title="Pull Shark - Merged pull requests" />
   </a>
 </div>
 
 ---
 
-## 🧠 Currently Learning & Roadmap
+## 🧠 Currently Learning & Focus Areas
 
-```mermaid
-flowchart LR
-    A["🐍 Advanced Python & DSA"] --> B["⚙️ Backend & Express APIs"]
-    B --> C["🗄️ SQL & Supabase Architecture"]
-    C --> D["☁️ Cloud (GCP / AWS) & DevOps"]
-    D --> E["🔐 Cybersecurity & Security Fundamentals"]
-    E --> F["🤖 Autonomous AI Agents"]
-```
-
-- 🐍 **Python & Problem Solving:** Deepening DSA knowledge and algorithmic problem-solving skills.
-- ⚙️ **Backend Engineering:** Building performant, modular REST APIs using Node.js & Express.js.
-- 🗄️ **Database Design:** Optimizing relational schemas, indexing, and data models with SQL & Supabase.
-- 🐧 **Linux & Systems:** Mastering command-line tooling, bash automation, and Linux environments.
-- ☁️ **Cloud Computing:** Hands-on deployments and architecture on Google Cloud Platform and AWS.
-- 🔐 **Cybersecurity:** Learning web application security (OWASP Top 10), authentication, and defense.
-- 🤖 **Agentic AI:** Developing multi-agent workflows, autonomous reasoning loops, and prompt systems.
+- 🐍 **Data Structures & Algorithms:** Advancing algorithmic problem solving and Python optimization.
+- ⚙️ **Backend Engineering:** Scalable REST APIs, middleware, and microservices with Node.js & Express.
+- 🗄️ **Databases & Systems:** Relational schemas, indexing, and Postgres/Supabase architecture.
+- ☁️ **Cloud & Security:** Google Cloud Platform, AWS, Linux system administration, and web security.
+- 🤖 **Agentic AI:** Developing autonomous agent loops, prompt systems, and multimodal pipelines.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Summary & Activity
 
 <div align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=nilesh0199&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
-    height="170"
-    alt="Nilesh's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh0199&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/nilesh0199?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-15-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Anilesh0199">
+    <img src="https://img.shields.io/badge/Pull_Requests-44-6366F1?style=for-the-badge&logo=git-pull-request&logoColor=white" alt="Pull Requests" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Anilesh0199">
+    <img src="https://img.shields.io/badge/Issues_Opened-10-F43F5E?style=for-the-badge&logo=githubissues&logoColor=white" alt="Issues" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nilesh0199">
+    <img src="https://img.shields.io/badge/Total_Commits-220%2B-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nilesh0199?tab=stars">
+    <img src="https://img.shields.io/badge/Stars_Earned-8-F59E0B?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
+  </a>
 
   <br/><br/>
 
   <img
-    src="https://streak-stats.demolab.com?user=nilesh0199&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://github-stats-extended.vercel.app/api?username=nilesh0199&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true&cache_seconds=1800"
+    height="160"
+    alt="GitHub Overview"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh0199&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="160"
+    alt="Top Languages"
   />
 
 </div>
