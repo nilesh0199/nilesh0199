@@ -330,6 +330,24 @@
   </ul>
 </details>
 
+<br/>
+
+<div align="center">
+  <b>🏅 Official GitHub Badges & Achievements</b>
+  <br/><br/>
+  <a href="https://github.com/nilesh0199?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" title="YOLO - Merged PR without review" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nilesh0199?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nilesh0199?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" title="Pull Shark - Merged pull requests" />
+  </a>
+</div>
+
 ---
 
 ## 🧠 Currently Learning & Roadmap
@@ -358,12 +376,12 @@ flowchart LR
 <div align="center">
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=nilesh0199&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=nilesh0199&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
     height="170"
     alt="Nilesh's GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh0199&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh0199&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="170"
     alt="Most Used Languages"
   />
